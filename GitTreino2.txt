@@ -1,0 +1,4 @@
+Esse treino é para verificar 
+algumas coisas
+Lembrar que existe comando como
+git log --pretty=online --stat

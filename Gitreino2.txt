@@ -1,0 +1,2 @@
+Esse teste tem função de entender 
+como remover do staging area
